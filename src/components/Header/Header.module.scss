@@ -1,0 +1,11 @@
+.headerContainer {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  z-index: 1000;
+  height: 33px;
+}
+
+.appBar {
+  display: inline-flex;
+}
